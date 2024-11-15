@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DZombies45
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning ...
-- 📫 How to reach me [link](https://dzombies45.github.io/web/)
+- 📫 My page [link](https://dzombies45.github.io/web/)
 
 <!---
 DZombies45/DZombies45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
