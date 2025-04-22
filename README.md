@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm DZombies45</h1>
 
-<!-- vim-markdown-toc Marked -->
-
-* [💫 About Me:](#💫-about-me:)
-* [📰 Blogs posts](#📰-blogs-posts)
-* [🌐 Socials:](#🌐-socials:)
-* [💻 Tech Stack:](#💻-tech-stack:)
-* [📊 GitHub Stats:](#📊-github-stats:)
-* [✍️ Random Dev Quote](#✍️-random-dev-quote)
-* [📖 visitor](#📖-visitor)
-
-<!-- vim-markdown-toc -->
-
 # 💫 About Me:
 
 🌟 Someone trying to be a YouTuber and coder for minecraft bedrock🎥💻
@@ -34,11 +22,11 @@
 ![Dzombies45's Stats](https://github-readme-stats.vercel.app/api?username=Dzombies45&theme=nightowl&show_icons=true&hide_border=false&count_private=true)<br/>
 ![Dzombies45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dzombies45&theme=nightowl&hide_border=false)<br/>
 ![Dzombies45's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dzombies45&theme=nightowl&show_icons=true&hide_border=false&layout=compact)<br/>
-[Dzombies45's trophy](https://github-profile-trophy.vercel.app/?username=Dzombies45&theme=discord&column=-1&margin-w=15&margin-h=15&rank=-?)
+![Dzombies45's trophy](https://github-profile-trophy.vercel.app/?username=Dzombies45&theme=discord&column=-1&margin-w=15&margin-h=15&rank=-?)
 
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vertial&theme=catppuccin_mocha&border=true)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertial&theme=catppuccin_mocha&border=true)
 
 ---
 
