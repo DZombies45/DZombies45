@@ -41,6 +41,7 @@
 <h2 align="center">📰 Blogs posts<h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [mcbe signal system](https://dzombies45.github.io/posts/mc-signal-system/)
 - [mcbe 1.21.70 break most beta script](https://dzombies45.github.io/posts/mc-1.21.70/)
 - [inv restock update plans](https://dzombies45.github.io/posts/inv-restock-update-plans/)
@@ -73,3 +74,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DZombies45&label=Profile%20views&color=03ad00&style=for-the-badge" alt="dzombies45" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DZombies45/DZombies45/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DZombies45/DZombies45/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DZombies45/DZombies45/output/pacman-contribution-graph.svg">
+</picture>
