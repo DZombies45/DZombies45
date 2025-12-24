@@ -38,15 +38,6 @@
     <img alt="trophy" title="Dzombies45's Trophy" src="https://github-profile-trophy.vercel.app/?username=Dzombies45&theme=discord&column=-1&margin-w=15&margin-h=15&rank=-?">
 </p>
 
-<h2 align="center">📰 Blogs posts<h2>
-
-<!-- BLOG-POST-LIST:START -->
-- [day night tuner](https://dzombies45.github.io/posts/day-night-config/)
-- [Custom Command](https://dzombies45.github.io/posts/custom-command/)
-- [mcbe signal system](https://dzombies45.github.io/posts/mc-signal-system/)
-- [mcbe 1.21.70 break most beta script](https://dzombies45.github.io/posts/mc-1.21.70/)
-<!-- BLOG-POST-LIST:END -->
-
 <h2 align="center">🎬 Latest YouTube Videos<h2>
 
 <p align="center">
