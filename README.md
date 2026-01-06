@@ -55,12 +55,12 @@
 </p>
 
 <table>
-  <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/ye3z9HZb2k4"><img width="140px" src="http://img.youtube.com/vi/ye3z9HZb2k4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/ye3z9HZb2k4">set noteblock note with ui #minecraft</a><br/>28 Jan, 2025</td></tr><tr><td><a href="https://www.youtube.com/shorts/1DtK4KRaKqo"><img width="140px" src="http://img.youtube.com/vi/1DtK4KRaKqo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/1DtK4KRaKqo">pick spawner with your pickaxe, check the link above this text</a><br/>17 Dec, 2024</td></tr><tr><td><a href="https://www.youtube.com/watch?v=_mzc4S8TrD0"><img width="140px" src="http://img.youtube.com/vi/_mzc4S8TrD0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_mzc4S8TrD0">Silky Mob Spawner addon</a><br/>16 Dec, 2024</td></tr><tr><td><a href="https://www.youtube.com/shorts/JD1st1I6aEg"><img width="140px" src="http://img.youtube.com/vi/JD1st1I6aEg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/JD1st1I6aEg">Auto build and destroy your beacon #minecraft</a><br/>15 Dec, 2024</td></tr><tr><td><a href="https://www.youtube.com/watch?v=GhlidnkeuJ4"><img width="140px" src="http://img.youtube.com/vi/GhlidnkeuJ4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GhlidnkeuJ4">Beacon Auto Build addon on MCBE</a><br/>15 Dec, 2024</td></tr><!-- YOUTUBE:END -->
+  <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/ye3z9HZb2k4"><img width="140px" src="http://img.youtube.com/vi/ye3z9HZb2k4/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/shorts/ye3z9HZb2k4">set noteblock note with ui #minecraft</a><br/>28 Jan, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/1DtK4KRaKqo"><img width="140px" src="http://img.youtube.com/vi/1DtK4KRaKqo/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/shorts/1DtK4KRaKqo">pick spawner with your pickaxe, check the link above this text</a><br/>17 Dec, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=_mzc4S8TrD0"><img width="140px" src="http://img.youtube.com/vi/_mzc4S8TrD0/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=_mzc4S8TrD0">Silky Mob Spawner addon</a><br/>16 Dec, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/JD1st1I6aEg"><img width="140px" src="http://img.youtube.com/vi/JD1st1I6aEg/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/shorts/JD1st1I6aEg">Auto build and destroy your beacon #minecraft</a><br/>15 Dec, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=GhlidnkeuJ4"><img width="140px" src="http://img.youtube.com/vi/GhlidnkeuJ4/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=GhlidnkeuJ4">Beacon Auto Build addon on MCBE</a><br/>15 Dec, 2024</td></tr>
+<!-- YOUTUBE:END -->
 </table>
 
 <h2 align="center">✍️ Random Dev Quote<h2>
