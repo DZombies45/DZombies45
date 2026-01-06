@@ -14,7 +14,7 @@
   <a href="https://dzombies45.github.io/"><img alt="website" title="Pages" src="https://img.shields.io/website?url=https%3A%2F%2Fdzombies45.github.io%2F&up_message=Online&up_color=limegreen&down_message=offline&down_color=red&style=for-the-badge&logo=GitHub%20Pages&label=GitHub%20Pages&labelColor=blue" style="margin: 0 5px;"></a>
 </p>
 <p align="center">
-  <a href="https://x.com/dzombies45"><img alt="x" title="X(Twiter)" src="https://img.shields.io/badge/-X_(Twiter)-black.svg?logo=X" style="margin: 0 5px;"></a>
+  <!-- <a href="https://x.com/dzombies45"><img alt="x" title="X(Twiter)" src="https://img.shields.io/badge/-X_(Twiter)-black.svg?logo=X" style="margin: 0 5px;"></a> -->
   <a href="https://www.youtube.com/c/Dzombies45"><img alt="youtube" title="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" style="margin: 0 5px;"></a>
   <a href="https://www.curseforge.com/members/dzombies45/projects"><img alt="curseforge" title="CurseForge" src="https://img.shields.io/badge/-CurseForge-orange?style=for-the-badge&logo=curseforge&logoColor=white"></a>
   <a href="https://mcpedl.com/user/dzombies45"><img alt="mcpedl" title="MCPEDL" src="https://img.shields.io/badge/-MCPEDL-green?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDBweCIgaGVpZ2h0PSJweCIgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiPgo8ZyBpZD0ic3VyZmFjZTEiPgo8cGF0aCBzdHlsZT0iIHN0cm9rZTpub25lO2ZpbGwtcnVsZTpldmVub2RkO2ZpbGw6cmdiKDk4LjgyMzUyOSUsOTguODIzNTI5JSw5OC44MjM1MjklKTtmaWxsLW9wYWNpdHk6MTsiIGQ9Ik0gOC4wNzAzMTIgMjAuMTc1NzgxIEwgOC4wNzAzMTIgMzAuODc4OTA2IEwgMTIuNzE4NzUgMzAuODU5Mzc1IEMgMTcuODc4OTA2IDMwLjgzNTkzOCAxOS41ODIwMzEgMzAuNDQxNDA2IDIwLjI1IDI5LjEyMTA5NCBDIDIwLjU2NjQwNiAyOC40OTYwOTQgMjAuNjkxNDA2IDI1Ljk4MDQ2OSAyMC42OTUzMTIgMjAuMjY5NTMxIEwgMjAuNzAzMTI1IDEyLjI5Mjk2OSBMIDE5LjcxNDg0NCAxMS4xODc1IEMgMTguNTMxMjUgOS44NjMyODEgMTYuOTI5Njg4IDkuNTIzNDM4IDExLjY2Nzk2OSA5LjQ5NjA5NCBMIDguMDcwMzEyIDkuNDcyNjU2IEwgOC4wNzAzMTIgMjAuMTc1NzgxIE0gMjMuNTA3ODEyIDIwLjE3NTc4MSBMIDIzLjUwNzgxMiAzMC44Nzg5MDYgTCAzMi4yODEyNSAzMC44Nzg5MDYgTCAzMi4yODEyNSAyNy4wMTU2MjUgTCAyOC43NzM0MzggMjcuMDE1NjI1IEwgMjguNzczNDM4IDkuNDcyNjU2IEwgMjMuNTA3ODEyIDkuNDcyNjU2IEwgMjMuNTA3ODEyIDIwLjE3NTc4MSBNIDEzLjMzMjAzMSAyMC4xNzU3ODEgQyAxMy4zMzIwMzEgMjcuMzkwNjI1IDEzLjM2MzI4MSAyNy43MTg3NSAxNC4wMTE3MTkgMjcuNzE4NzUgQyAxNS42Mjg5MDYgMjcuNzE4NzUgMTUuNzg5MDYyIDI3LjAzMTI1IDE1Ljc4OTA2MiAyMC4xNzU3ODEgQyAxNS43ODkwNjIgMTMuMzE2NDA2IDE1LjYyODkwNiAxMi42MzI4MTIgMTQuMDExNzE5IDEyLjYzMjgxMiBDIDEzLjM2MzI4MSAxMi42MzI4MTIgMTMuMzMyMDMxIDEyLjk1NzAzMSAxMy4zMzIwMzEgMjAuMTc1NzgxICIvPgo8cGF0aCBzdHlsZT0iIHN0cm9rZTpub25lO2ZpbGwtcnVsZTpldmVub2RkO2ZpbGw6cmdiKDIuMzUyOTQxJSw2NS40OTAxOTglLDE4LjAzOTIxNiUpO2ZpbGwtb3BhY2l0eToxOyIgZD0iTSAwIDIwLjAwMzkwNiBMIDAgNDAuMDAzOTA2IEwgMjAuMDg1OTM4IDM5LjkxNDA2MiBMIDQwLjE3NTc4MSAzOS44MjQyMTkgTCA0MC4yNjU2MjUgMTkuOTE0MDYyIEwgNDAuMzU1NDY5IDAgTCAwIDAgTCAwIDIwLjAwMzkwNiBNIDAuMTY0MDYyIDIwLjE3NTc4MSBDIDAuMTY0MDYyIDMxLjE3NTc4MSAwLjIwNzAzMSAzNS42MjUgMC4yNjE3MTkgMzAuMDYyNSBDIDAuMzE2NDA2IDI0LjUgMC4zMTY0MDYgMTUuNSAwLjI2MTcxOSAxMC4wNjI1IEMgMC4yMDcwMzEgNC42MjUgMC4xNjQwNjIgOS4xNzU3ODEgMC4xNjQwNjIgMjAuMTc1NzgxIE0gOC4wNzAzMTIgMjAuMTc1NzgxIEwgOC4wNzAzMTIgMzAuODc4OTA2IEwgMTIuNzE4NzUgMzAuODU5Mzc1IEMgMTcuODc4OTA2IDMwLjgzNTkzOCAxOS41ODIwMzEgMzAuNDQxNDA2IDIwLjI1IDI5LjEyMTA5NCBDIDIwLjU2NjQwNiAyOC40OTYwOTQgMjAuNjkxNDA2IDI1Ljk4MDQ2OSAyMC42OTUzMTIgMjAuMjY5NTMxIEwgMjAuNzAzMTI1IDEyLjI5Mjk2OSBMIDE5LjcxNDg0NCAxMS4xODc1IEMgMTguNTMxMjUgOS44NjMyODEgMTYuOTI5Njg4IDkuNTIzNDM4IDExLjY2Nzk2OSA5LjQ5NjA5NCBMIDguMDcwMzEyIDkuNDcyNjU2IEwgOC4wNzAzMTIgMjAuMTc1NzgxIE0gMjMuNTA3ODEyIDIwLjE3NTc4MSBMIDIzLjUwNzgxMiAzMC44Nzg5MDYgTCAzMi4yODEyNSAzMC44Nzg5MDYgTCAzMi4yODEyNSAyNy4wMTU2MjUgTCAyOC43NzM0MzggMjcuMDE1NjI1IEwgMjguNzczNDM4IDkuNDcyNjU2IEwgMjMuNTA3ODEyIDkuNDcyNjU2IEwgMjMuNTA3ODEyIDIwLjE3NTc4MSBNIDEzLjMzMjAzMSAyMC4xNzU3ODEgQyAxMy4zMzIwMzEgMjcuMzkwNjI1IDEzLjM2MzI4MSAyNy43MTg3NSAxNC4wMTE3MTkgMjcuNzE4NzUgQyAxNS42Mjg5MDYgMjcuNzE4NzUgMTUuNzg5MDYyIDI3LjAzMTI1IDE1Ljc4OTA2MiAyMC4xNzU3ODEgQyAxNS43ODkwNjIgMTMuMzE2NDA2IDE1LjYyODkwNiAxMi42MzI4MTIgMTQuMDExNzE5IDEyLjYzMjgxMiBDIDEzLjM2MzI4MSAxMi42MzI4MTIgMTMuMzMyMDMxIDEyLjk1NzAzMSAxMy4zMzIwMzEgMjAuMTc1NzgxICIvPgo8L2c%2BCjwvc3ZnPgo%3D&style=for-the-badge" style="margin: 0 5px;"></a>
@@ -32,19 +32,17 @@
 <h2 align="center">📊 GitHub Statistic:<h2>
 
 <p align="center">
-    <img alt="stats" title="Dzombies45's Stats" src="https://github-readme-stats.vercel.app/api?username=Dzombies45&theme=nightowl&show_icons=true&hide_border=false&count_private=true"><br>
-    <img alt="streak" title="Dzombies45's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dzombies45&theme=nightowl&hide_border=false"><br>
-    <img alt="toplanguage" title="Dzombies45's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzombies45&theme=nightowl&show_icons=true&hide_border=false&layout=compact"><br>
-    <img alt="trophy" title="Dzombies45's Trophy" src="https://github-profile-trophy.vercel.app/?username=Dzombies45&theme=discord&column=-1&margin-w=15&margin-h=15&rank=-?">
+    <img src="./profile/stats.svg" alt="Stats"><br/>
+    <img src="./profile/top-langs.svg" alt="Top Languages"><br/>
+    <img src="./profile/wakatime.svg" alt="Wakatime">
 </p>
 
 <h2 align="center">🎬 Latest Blog Post<h2>
+
+<table>
 <!-- BLOG-POST-LIST:START -->
-- [Rewrite SHome again](https://dzombies45.github.io/posts/rewrite-shome-again/)
-- [day night tuner](https://dzombies45.github.io/projects/day-night-tuner/)
-- [Custom Command](https://dzombies45.github.io/projects/custom-command/)
-- [mcbe signal system](https://dzombies45.github.io/projects/mcbe-signal-system/)
 <!-- BLOG-POST-LIST:END -->
+</table>
 
 <h2 align="center">🎬 Latest YouTube Videos<h2>
 
