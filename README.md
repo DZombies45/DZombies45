@@ -40,6 +40,10 @@
 
 <h2 align="center">🎬 Latest Blog Post<h2>
 <!-- BLOG-POST-LIST:START -->
+- [Rewrite SHome again](https://dzombies45.github.io/posts/rewrite-shome-again/)
+- [day night tuner](https://dzombies45.github.io/projects/day-night-tuner/)
+- [Custom Command](https://dzombies45.github.io/projects/custom-command/)
+- [mcbe signal system](https://dzombies45.github.io/projects/mcbe-signal-system/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">🎬 Latest YouTube Videos<h2>
