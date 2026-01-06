@@ -38,6 +38,10 @@
     <img alt="trophy" title="Dzombies45's Trophy" src="https://github-profile-trophy.vercel.app/?username=Dzombies45&theme=discord&column=-1&margin-w=15&margin-h=15&rank=-?">
 </p>
 
+<h2 align="center">🎬 Latest Blog Post<h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h2 align="center">🎬 Latest YouTube Videos<h2>
 
 <p align="center">
