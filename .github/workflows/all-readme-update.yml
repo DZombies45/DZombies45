@@ -1,0 +1,81 @@
+name: Update README all
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=nightowl&show_icons=true&hide_border=false&count_private=true
+          # path: profile/card-stats.svg
+          path: dist/card-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=nightowl&show_icons=true&hide_border=false
+          # path: profile/card-top-langs.svg
+          path: dist/card-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate wakatime card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&theme=nightowl&show_icons=true&hide_border=false
+          # path: profile/card-wakatime.svg
+          path: dist/card-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: "5"
+          feed_list: "https://dzombies45.github.io/index.xml"
+          date_format: "d mmm, yyyy"
+          template: '<tr><td><a href="$url">$title</a></td><td>$description<br/>$date</td></tr><$newline'
+
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCuwkH47wr2yufWCPEeRqTYA"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "d mmm, yyyy"
+          template: '<tr><td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td><td><a href="$url">$title</a><br/>$date</td></tr>$newline'
+          committer_email: "dewan.dinda@gmail.com"
+
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      # Push the generated SVG to the output branch
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: main
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # - name: Commit cards
+      #   run: |
+      #     git config user.name "github-actions"
+      #     git config user.email "github-actions@users.noreply.github.com"
+      #     git add profile/*.svg
+      #     git commit -m "Update README cards" || exit 0
+      #     git push
