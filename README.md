@@ -40,7 +40,11 @@
 <h2 align="center">🎬 Latest Blog Post<h2>
 
 <table>
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><tr><td></td><td><a href="https://dzombies45.github.io/posts/rewrite-shome-again/">Rewrite SHome again</a></td><td><br/>Tue Jan 06 2026 3:05 AM</td></tr><
+<tr><td></td><td><a href="https://dzombies45.github.io/projects/day-night-tuner/">day night tuner</a></td><td><br/>Thu Jul 03 2025 7:53 PM</td></tr><
+<tr><td></td><td><a href="https://dzombies45.github.io/projects/custom-command/">Custom Command</a></td><td><br/>Mon May 05 2025 7:48 PM</td></tr><
+<tr><td></td><td><a href="https://dzombies45.github.io/projects/mcbe-signal-system/">mcbe signal system</a></td><td><br/>Wed Mar 26 2025 4:41 PM</td></tr><
+<tr><td></td><td><a href="https://dzombies45.github.io/posts/mcbe-1-21-70-break-most-beta-script/">mcbe 1.21.70 break most beta script</a></td><td><br/>Wed Mar 26 2025 3:38 AM</td></tr><
 <!-- BLOG-POST-LIST:END -->
 </table>
 
