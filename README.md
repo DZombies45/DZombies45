@@ -32,9 +32,9 @@
 <h2 align="center">📊 GitHub Statistic:<h2>
 
 <p align="center">
-    <img src="./profile/stats.svg" alt="Stats"><br/>
-    <img src="./profile/top-langs.svg" alt="Top Languages"><br/>
-    <img src="./profile/wakatime.svg" alt="Wakatime">
+    <img src="https://raw.githubusercontent.com/DZombies45/DZombies45/profile/card-stats.svg" alt="Stats"><br/>
+    <img src="https://raw.githubusercontent.com/DZombies45/DZombies45/profile/card-top-langs.svg" alt="Top Languages"><br/>
+    <img src="https://raw.githubusercontent.com/DZombies45/DZombies45/profile/card-wakatime.svg" alt="Wakatime">
 </p>
 
 <h2 align="center">🎬 Latest Blog Post<h2>
@@ -76,7 +76,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DZombies45/DZombies45/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DZombies45/DZombies45/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DZombies45/DZombies45/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DZombies45/DZombies45/profile/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DZombies45/DZombies45/profile/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DZombies45/DZombies45/profile/pacman-contribution-graph.svg">
 </picture>
