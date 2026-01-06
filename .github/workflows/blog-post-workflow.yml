@@ -13,5 +13,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "4"
+          max_post_count: "5"
           feed_list: "https://dzombies45.github.io/index.xml"
+          # title_max_length: "25"
+          template: '<tr><td>$categories</td><td><a href="$url">$title</a></td><td>$description<br/>$date</td></tr><$newline'
