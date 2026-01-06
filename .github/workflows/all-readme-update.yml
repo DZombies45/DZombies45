@@ -10,7 +10,6 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
@@ -29,7 +28,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=nightowl&show_icons=true&hide_border=false
           # path: profile/card-top-langs.svg
-          path: dist/card-stats.svg
+          path: dist/card-top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate wakatime card
@@ -38,7 +37,7 @@ jobs:
           card: wakatime
           options: username=${{ github.repository_owner }}&layout=compact&theme=nightowl&show_icons=true&hide_border=false
           # path: profile/card-wakatime.svg
-          path: dist/card-stats.svg
+          path: dist/card-wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Pull in dev.to posts
@@ -49,7 +48,8 @@ jobs:
           date_format: "d mmm, yyyy"
           template: '<tr><td><a href="$url">$title</a></td><td>$description<br/>$date</td></tr><$newline'
 
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: generate youtube videos
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCuwkH47wr2yufWCPEeRqTYA"
