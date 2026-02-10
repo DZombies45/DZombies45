@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DZombies45</h1>
 
-<p align="center"><a href="#"><img width="75%" height="auto" src="https://dzombies45.github.io/assets/img/titlemc.png"/></a></p>
+<p align="center"><a href="#"><img width="75%" height="auto" src="./assets/img/titlemc.png"/></a></p>
 
 <h1 align="center">💫 About Me:</h1>
 
