@@ -63,7 +63,7 @@
 <!-- YOUTUBE:END -->
 </table>
 
-![My GitHub Game](game.gif)
+![My GitHub Game](./assets/img/game.webp)
 
 <h2 align="center">✍️ Random Dev Quote<h2>
 
