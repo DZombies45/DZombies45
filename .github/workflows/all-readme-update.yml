@@ -58,6 +58,14 @@ jobs:
           template: '<tr><td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td><td><a href="$url">$title</a><br/>$date</td></tr>$newline'
           committer_email: "dewan.dinda@gmail.com"
 
+      - name: generate space-shooter graph
+        uses: czl9707/gh-space-shooter@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: "game.gif"
+          strategy: "random"
+          fps: 24
+
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
