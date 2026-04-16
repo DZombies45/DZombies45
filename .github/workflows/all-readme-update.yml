@@ -82,7 +82,7 @@ jobs:
       - name: generate youtube videos
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UCuwkH47wr2yufWCPEeRqTYA"
+          channel_id: UCuwkH47wr2yufWCPEeRqTYA
       # - name: Commit cards
       #   run: |
       #     git config user.name "github-actions"
