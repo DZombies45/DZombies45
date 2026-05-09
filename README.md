@@ -60,7 +60,12 @@
 </table>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![set noteblock note with ui #minecraft](https://ytcards.demolab.com/?id=ye3z9HZb2k4&title=set+noteblock+note+with+ui+%23minecraft&lang=en&timestamp=1738044130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "set noteblock note with ui #minecraft")](https://www.youtube.com/shorts/ye3z9HZb2k4)
+[![pick spawner with your pickaxe, check the link above this text](https://ytcards.demolab.com/?id=1DtK4KRaKqo&title=pick+spawner+with+your+pickaxe%2C+check+the+link+above+this+text&lang=en&timestamp=1734397800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "pick spawner with your pickaxe, check the link above this text")](https://www.youtube.com/shorts/1DtK4KRaKqo)
+[![Silky Mob Spawner addon](https://ytcards.demolab.com/?id=_mzc4S8TrD0&title=Silky+Mob+Spawner+addon&lang=en&timestamp=1734364926&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Silky Mob Spawner addon")](https://www.youtube.com/watch?v=_mzc4S8TrD0)
+[![Auto build and destroy your beacon #minecraft](https://ytcards.demolab.com/?id=JD1st1I6aEg&title=Auto+build+and+destroy+your+beacon+%23minecraft&lang=en&timestamp=1734290520&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Auto build and destroy your beacon #minecraft")](https://www.youtube.com/shorts/JD1st1I6aEg)
+[![Beacon Auto Build addon on MCBE](https://ytcards.demolab.com/?id=GhlidnkeuJ4&title=Beacon+Auto+Build+addon+on+MCBE&lang=en&timestamp=1734275939&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Beacon Auto Build addon on MCBE")](https://www.youtube.com/watch?v=GhlidnkeuJ4)
+[![NameTagRename addon, already on mcpedl](https://ytcards.demolab.com/?id=ZhqtavQAYzA&title=NameTagRename+addon%2C+already+on+mcpedl&lang=en&timestamp=1725335662&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NameTagRename addon, already on mcpedl")](https://www.youtube.com/shorts/ZhqtavQAYzA)
 <!-- END YOUTUBE-CARDS -->
 
 ![My GitHub Game](./assets/img/game.webp)
